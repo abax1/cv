@@ -35,8 +35,8 @@ Bournemouth University, 1999
 - **Backend**: FastAPI, Flask, Django, NestJS, Node.js, Springboot
 - **Cloud**: AWS, Azure, GCP, AWS Cognito, Docker, Kubernetes
 - **Blockchain**: Corda, Ethereum
-- **Databases**: MySQL, MongoDB, Postgres, DynamoDB
-- **DevOps**: Docker, Kubernetes, CI/CD, Jenkins, GCP, AWS Lambda
+- **Databases**: MySQL, MongoDB, Postgres, DynamoDB, Firestore
+- **DevOps**: Docker, Kubernetes, CI/CD, Jenkins, GCP, AWS Lambda, Azure
 - **Other**: RESTful API, IoT/Raspberry Pi, OAuth 2.0, OpenID Connect, Jira, Agile, TDD, UML
 
 ---
