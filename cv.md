@@ -17,7 +17,7 @@
 
 ## Profile
 
-A full stack software engineer with 20 years of experience, including business analysis and product management. Passionate about building software solutions from concept to implementation using React for frontend, and Python, Kotlin, Corda, Java, and Rust for backend development over a RESTful API. Proficient in deployment using Docker, Kubernetes, AWS, and GCP. Experience with blockchain, machine learning, and IoT. Adept at Agile development practices.
+A full stack software engineer with 20 years of experience, including business analysis and product management. Passionate about building software solutions from concept to implementation using React for frontend, and Python, Kotlin, Corda, Java, TypeScript and Rust for backend development over a RESTful API. Proficient in deployment using Docker, Kubernetes, AWS, Azure and GCP. Experience with blockchain, machine learning, and IoT. Adept at Agile development practices.
 
 ---
 
