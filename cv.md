@@ -54,6 +54,7 @@ Bournemouth University, 1999
 
 - Led development for blockchain-based data reconciliation platform.
 - **Technologies**: React, Python, Kotlin, JavaScript, Docker, Kubernetes, GCP
+- Migrated from Azure to AWS and then to GCP over the lifetime of this project on the client's request
 
 ### Senior Software Engineer - Full Stack  
 **Sage**, Brighton, UK | 2022 - May 2023
