@@ -53,7 +53,7 @@ Bournemouth University, 1999
 **Armakuni**, London, UK, Dubai, UAE | 2024 - Present
 
 - Fullstack developer for an AI food securities data platform.
-- **Technologies**: Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure
+- **Technologies**: Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, Postgres
 
 ### Senior Software Engineer - Full Stack  
 **Tandem Technology Solutions**, London, UK | 2022 - Present
