@@ -52,7 +52,7 @@ Bournemouth University, 1999
 ### Senior Software Engineer - Full Stack  
 **Armakuni**, London, UK, Dubai, UAE | 2024 - Present
 
-- Fullstack developer for an AI food securities data platform.
+- Fullstack developer for an AI food securities data platform for the UAE.
 - **Technologies**: Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, Postgres
 
 ### Senior Software Engineer - Full Stack  
