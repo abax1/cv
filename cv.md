@@ -37,7 +37,7 @@ Bournemouth University, 1999
 - **Blockchain**: Corda, Ethereum
 - **Databases**: MySQL, MongoDB, Postgres, DynamoDB, Firestore
 - **DevOps**: Docker, Kubernetes, CI/CD, Jenkins, GCP, AWS Lambda, Azure
-- **Other**: RESTful API, IoT/Raspberry Pi, OAuth 2.0, OpenID Connect, Jira, Agile, TDD, UML
+- **Other**: RESTful API, IoT/Raspberry Pi, OAuth 2.0, OpenID Connect, Jira, Agile, TDD, UML, Dagster
 
 ---
 
