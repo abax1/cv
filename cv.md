@@ -56,7 +56,7 @@ Bournemouth University, 1999
 - **Technologies**: Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, Postgres
 
 ### Senior Software Engineer - Full Stack  
-**Tandem Technology Solutions**, London, UK | 2022 - Present
+**Tandem Technology Solutions**, London, UK | 2022 - 2024
 
 - Led development for blockchain-based data reconciliation platform.
 - **Technologies**: React, Python, Kotlin, JavaScript, Docker, Kubernetes, GCP
