@@ -41,6 +41,25 @@ Bournemouth University, 1999
 
 ---
 
+## Portfolio (Recent Projects)
+
+- **Auth0/AWS Cognito Embedded Single Sign-On**  
+  Developed federated identity solution for embedding Sage product.
+
+- **Telco Roaming Reconciliation (BCE) Platform**  
+  Built production-grade solution for roaming reconciliation using Corda blockchain.
+
+- **Data Dictionary and Analysis (NHS Wales)**  
+  Created a data dictionary for consolidating ophthalmic data for the NHS.
+
+- **Secure Contacts Application (Harper Collins)**  
+  Developed secure author contacts database using React, FastAPI, and MongoDB.
+
+- **Identity Management Layer (NCSC CyberFirst)**  
+  Developed identity management platform using React, Python, and AWS Cognito.
+
+---
+
 ## Certifications
 
 - **Corda Blockchain Developer** - R3, 2019
@@ -110,25 +129,6 @@ Bournemouth University, 1999
 **Panasonic**, Thatcham, Berkshire, UK | 1999 - 2003
 
 - Developed LLC layer for the GPRS protocol stack.
-
----
-
-## Portfolio (Recent Projects)
-
-- **Auth0/AWS Cognito Embedded Single Sign-On**  
-  Developed federated identity solution for embedding Sage product.
-
-- **Telco Roaming Reconciliation (BCE) Platform**  
-  Built production-grade solution for roaming reconciliation using Corda blockchain.
-
-- **Data Dictionary and Analysis (NHS Wales)**  
-  Created a data dictionary for consolidating ophthalmic data for the NHS.
-
-- **Secure Contacts Application (Harper Collins)**  
-  Developed secure author contacts database using React, FastAPI, and MongoDB.
-
-- **Identity Management Layer (NCSC CyberFirst)**  
-  Developed identity management platform using React, Python, and AWS Cognito.
 
 ---
 
