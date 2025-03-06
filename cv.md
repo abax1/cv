@@ -68,12 +68,6 @@ A DevOps-focused full stack software engineer with 20 years’ experience, combi
 - **Identity Management Layer (NCSC CyberFirst)**  
   Built a robust identity management platform using React, Python, and AWS Cognito. Implemented Agile CI/CD principles to streamline both frontend and backend development, ensuring secure, automated updates.
 
-- **Armakuni – AI-Powered Food Supply Intelligence Platform**  
-  Key contributor in designing and developing an AI-driven food supply intelligence platform for the UAE. Championed DevOps practices through:
-  - **Agile Collaboration:** Engaged in pair programming and iterative development.
-  - **CI/CD Pipeline:** Implemented automated pipelines using Docker, Kubernetes, and Azure to ensure reliable, rapid deployment.
-  - **Full Stack Integration:** Developed frontend components in C# and backend services in Python with FastAPI, alongside data pipelines using Dagster.
-
 - **Telco Roaming Reconciliation (BCE) Proof of Concept**  
   Created an automated bilateral reconciliation engine on Corda Blockchain, reducing friction and costs between network operators. Delivered an end-to-end solution incorporating CI/CD across multiple environments (AWS, Azure, GCP).
 
