@@ -17,23 +17,26 @@
 
 ## Profile
 
-DevOps-driven Full Stack Software Engineer with 20 years of experience, seamlessly integrating business analysis and product management skills. Proven track record in architecting and implementing robust CI/CD pipelines to accelerate software delivery and enhance system reliability. Passionate about building scalable solutions from concept to production using modern technologies such as React, Python, Kotlin, Corda, Java, TypeScript, and Rust. Proficient in leveraging Docker, Kubernetes, AWS, Azure, and GCP to automate deployments and foster agile development practices.
+A DevOps-focused full stack software engineer with 20 years’ experience, combining technical excellence with business analysis and product management in the blockchain sector. Adept at driving continuous integration and continuous delivery (CI/CD) practices, I bring a strong emphasis on automation, infrastructure orchestration, and agile development to every project.
+
+- **End-to-End Solution Delivery**: Passionate about building and deploying robust software solutions—from concept through to production—while ensuring seamless CI/CD pipelines and automated testing.
+- **Technical Expertise**: Proficient in using React for frontend development and a diverse set of backend technologies including Python, Kotlin, Corda, Java, and Rust, all integrated over RESTful APIs.
+- **Cloud & Containerisation**: Extensive experience with Docker and Kubernetes for container orchestration and deployment, routinely leveraging AWS or GCP to streamline cloud operations and ensure high availability.
+- **Advanced Integration**: Incorporates emerging technologies such as machine learning and IoT to enhance functionality and efficiency, always underpinned by agile practices to optimize the software lifecycle.
+
 
 ---
 
-## Education
+## Key Skills
 
-**BSc (Hons) Business Information Technology**  
-Bournemouth University, 1999
-
----
-
-## Skills
+- **CI/CD Pipeline Design & Automation**: Extensive experience creating automated build, test, and deployment pipelines using Cloud Build, GitHub Actions, Jenkins, and Buildkite.
+- **Cloud & DevOps Tools**: Proficient with cloud platforms (e.g., Google Cloud) and container orchestration (Docker, Kubernetes) to support CI/CD processes.
+- **Infrastructure as Code**: Skilled in using tools such as Terraform and CloudFormation to manage scalable infrastructure deployments in CI/CD environments.
+- **Monitoring & Optimisation**: Expertise in integrating automated testing, quality assurance, and monitoring into CI/CD workflows to ensure robust and reliable production releases.
 
 - **Languages**: Python, Kotlin, Java, C, TypeScript, JavaScript
 - **Frontend**: React, CSS, Styled Components
 - **Backend**: FastAPI, Flask, Django, NestJS, Node.js, Spring Boot
-- **Cloud & DevOps**: AWS, Azure, GCP, AWS Cognito, Docker, Kubernetes, CI/CD, Jenkins, AWS Lambda
 - **Blockchain**: Corda, Ethereum
 - **Databases**: MySQL, MongoDB, Postgres, DynamoDB, Firestore
 - **Other**: RESTful APIs, IoT/Raspberry Pi, OAuth 2.0, OpenID Connect, Jira, Agile, TDD, UML, Dagster
@@ -41,6 +44,14 @@ Bournemouth University, 1999
 ---
 
 ## Portfolio (Recent Projects)
+
+- **AI-Powered Food Supply Intelligence Platform**
+  - **Overview**: As a key member of the Armakuni team in London, contributed to designing and building an AI-  powered food supply intelligence platform tailored for the UAE market.
+  - **DevOps Impact**:
+  - **Collaboration & Agile Development**: Actively participated in pair programming and embraced agile methodologies, ensuring rapid iterations and quality deliverables.
+  - **End-to-End Pipeline**: Developed both frontend components using C# and backend services with Python and FastAPI, while implementing data pipelines using Dagster.
+  - **Continuous Integration & Deployment**: Championed DevOps initiatives by leveraging Azure Bicep, Docker, and Kubernetes to streamline automated deployments and ensure system reliability in a production environment.
+
 
 - **Auth0/AWS Cognito Embedded Single Sign-On**  
   Developed a federated identity solution enabling a seamless SSO experience for embedding the Sage product, with automated CI/CD pipelines ensuring secure and efficient deployment.
@@ -71,6 +82,13 @@ Bournemouth University, 1999
 
 ---
 
+## Education
+
+**BSc (Hons) Business Information Technology**  
+Bournemouth University, 1999
+
+---
+
 ## Certifications
 
 - **Corda Blockchain Developer** - R3, 2019
@@ -84,14 +102,14 @@ Bournemouth University, 1999
 
 - Contributing to the development of an AI-powered food supply intelligence platform for the UAE.
 - **Technologies**: Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, Postgres.
-- **DevOps Focus**: Spearheaded CI/CD initiatives, leveraging automated deployments and container orchestration to ensure consistent, scalable rollouts.
+- **DevOps Focus**: Championed CI/CD initiatives, leveraging automated deployments and container orchestration to ensure consistent, scalable rollouts.
 
 ### Senior Software Engineer - Full Stack  
 **Tandem Technology Solutions**, London, UK | 2022 - 2024
 
 - Led the development of a blockchain-based data reconciliation platform.
 - **Technologies**: React, Python, Kotlin, JavaScript, Docker, Kubernetes, GCP.
-- **DevOps Focus**: Implemented robust CI/CD pipelines, managing cloud transitions (Azure to AWS to GCP) and ensuring seamless integration and automated deployments.
+- **DevOps Focus**: Implemented robust CI/CD pipelines (Buildkite), managing cloud transitions (Azure to AWS to GCP) and ensuring seamless integration and automated deployments.
 
 ### Senior Software Engineer - Full Stack  
 **Sage**, Brighton, UK | 2022 - May 2023
