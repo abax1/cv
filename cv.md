@@ -48,9 +48,9 @@ A DevOps-focused full stack software engineer with 20 years’ experience, combi
 - **AI-Powered Food Supply Intelligence Platform**
   - **Overview**: As a key member of the Armakuni team in London, contributed to designing and building an AI-  powered food supply intelligence platform tailored for the UAE market.
   - **DevOps Impact**:
-  - **Collaboration & Agile Development**: Actively participated in pair programming and embraced agile methodologies, ensuring rapid iterations and quality deliverables.
-  - **End-to-End Pipeline**: Developed both frontend components using C# and backend services with Python and FastAPI, while implementing data pipelines using Dagster.
-  - **Continuous Integration & Deployment**: Championed DevOps initiatives by leveraging Azure Bicep, Docker, and Kubernetes to streamline automated deployments and ensure system reliability in a production environment.
+    - **Collaboration & Agile Development**: Actively participated in pair programming and embraced agile methodologies, ensuring rapid iterations and quality deliverables.
+    - **End-to-End Pipeline**: Developed both frontend components using C# and backend services with Python and FastAPI, while implementing data pipelines using Dagster.
+    - **Continuous Integration & Deployment**: Championed DevOps initiatives by leveraging Azure Bicep, Docker, and Kubernetes to streamline automated deployments and ensure system reliability in a production environment.
 
 
 - **Auth0/AWS Cognito Embedded Single Sign-On**  
