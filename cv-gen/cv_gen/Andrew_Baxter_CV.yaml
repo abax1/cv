@@ -1,0 +1,370 @@
+cv:
+  name: Andrew Baxter
+  location: Cirencester, UK
+  email: andrew.baxter@ajbtech.io
+  phone: +44 7825 980 301
+  website: https://ajbtech.io
+  social_networks:
+    - network: LinkedIn
+      username: andrewbaxter1
+    - network: GitHub
+      username: abax1
+  sections:
+    profile:
+      - A full stack software engineer with 20 years of experience, including business analysis and product management. Passionate about building software solutions from concept to implementation using React for frontend, and Python, Kotlin, Corda, Java, TypeScript and Rust for backend development over a RESTful API. Proficient in deployment using Docker, Kubernetes, AWS, Azure and GCP. Experience with blockchain, machine learning, and IoT. Adept at Agile development practices.
+    education:
+      - institution: Bournemouth University
+        area: Business Information Technology
+        degree: BSc
+        date:
+        start_date: 1995-09
+        end_date: 1999-09
+        location: Bournemouth, UK
+        summary:
+        highlights:
+          - Sponsored by Panasonic
+
+    skills:
+      - label: Programming
+        details: "Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, and C#."
+      - label: Frameworks
+        details: "React, FastAPI, Django, Flask, Corda, Dagster"
+      - label: DevOps
+        details: "Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions, GitLab"
+      - label: Blockchain
+        details: "Corda, Ethereum, Hyperledger"
+      - label: Databases
+        details: "Postgres, MySQL, MongoDB, DynamoDB, Firestore"
+      - label: Languages
+        details: "English (native)"
+
+    portfolio:
+      - name: AI Food Securities Data Platform (Armakuni)
+        date: 2025
+        start_date: 
+        end_date: present
+        location: London, UK
+        summary: AI food securities data platform for the UAE
+        highlights:
+          - Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, and Postgres.
+
+      - name: Auth0/AWS Cognito Embedded Single Sign-On
+        date: 
+        start_date: 2022
+        end_date: 2023
+        location: Brighton, UK
+        summary: Federated identity solution for embedding Sage product
+        highlights:
+          - Developed federated identity solution for embedding Sage product.
+
+      - name: Telco Roaming Reconciliation (BCE) Platform
+        date: 
+        start_date: 
+        end_date: 
+        location: London, UK
+        summary:
+        highlights:
+          - Built production-grade solution for roaming reconciliation using Corda blockchain.
+
+      - name: Secure Contacts Application (Harper Collins)
+        date: 
+        start_date: 2021
+        end_date: 2022
+        location: London, UK
+        summary:
+        highlights:
+          - Developed secure author contacts database using React, FastAPI, and MongoDB.
+
+      - name: Identity Management Layer (NCSC CyberFirst)
+        date: 
+        start_date: 2020
+        end_date: 2021
+        location: London, UK
+        summary:
+        highlights:
+          - Developed identity management platform using React, Python, and AWS Cognito.
+
+    experience:
+      - company: Armakuni
+        position: Senior Software Engineer
+        date:
+        start_date: 2024-11
+        end_date: present
+        location: London, UK
+        summary: Fullstack developer for an AI food securities data platform for the UAE.
+        highlights:
+          - Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, Postgres
+
+      - company: Tandem Technology Solutions
+        position: Senior Software Engineer
+        date:
+        start_date: 2022
+        end_date: 2024
+        location: London, UK
+        summary:
+        highlights:
+          - Led development for blockchain-based data reconciliation platform.
+          - "Technologies: React, Python, Kotlin, JavaScript, Docker, Kubernetes, GCP"
+          - Migrated from Azure to AWS and then to GCP over the lifetime of this project on the client's request
+
+      - company: Sage
+        position: Senior Software Engineer
+        date:
+        start_date: 2022
+        end_date: 2023
+        location: Brighton, UK
+        summary:
+        highlights:
+          - Developed secure single sign-on embedded capability.
+          - "Technologies: React, Python, FastAPI, Django, Postgres, AWS Cognito"
+
+      - company: Harper Collins
+        position: Senior Software Engineer
+        date:
+        start_date: 2021
+        end_date: 2022
+        location: London, UK
+        summary:
+        highlights:
+          - Developed a secure author contacts database.
+          - "Technologies: React, Python, FastAPI, MongoDB, OAuth 2.0, OpenID Connect, Docker"
+
+      - company: Zaizi Ltd
+        position: Senior Software Engineer
+        date:
+        start_date: 2020
+        end_date: 2021
+        location: London, UK
+        summary:
+        highlights:
+          - Led development for identity management software for NCSC CyberFirst.
+          - "Technologies: React, Python, Flask, AWS Cognito, MySQL, DynamoDB, Lambda"
+
+      - company: Fifth9 Ltd
+        position: Senior Consultant - Full Stack Developer
+        date:
+        start_date: 2017
+        end_date: 2020
+        location: London, UK
+        summary:
+        highlights:
+          - Developed blockchain projects and consulted for telco and GDPR teams.
+          - "Technologies: React, Python, Kotlin, Java, AWS, Docker, Kubernetes"
+
+      - company: Vodafone
+        position: IoT Business Analyst
+        date:
+        start_date: 2013
+        end_date: 2017
+        location: Newbury, Berkshire, UK
+        summary:
+        highlights:
+          - Managed business requirements for Vodafone’s IoT product portfolio.
+
+      - company: Nokia
+        position: Product Owner
+        date:
+        start_date: 2009
+        end_date: 2011
+        location: Farnborough, UK
+        summary:
+        highlights:
+          - Managed the Social Phonebook software product and led technical discussions with Facebook and Twitter.
+
+      - company: Nokia
+        position: Nokia S40 Camera Software Team Leader
+        date:
+        start_date: 2008
+        end_date: 2009
+        location: Farnborough, UK
+        summary:
+        highlights:
+          - Led a team responsible for camera software driver development.
+
+      - company: Nokia
+        position: Embedded Software Engineer
+        date:
+        start_date: 2003
+        end_date: 2008
+        location: Farnborough, UK
+        summary:
+        highlights:
+          - Developed embedded software for the IrDA protocol stack and S40 camera systems.
+
+      - company: Panasonic
+        position: Embedded Software Engineer
+        date:
+        start_date: 1999
+        end_date: 2003
+        location: Thatcham, Berkshire, UK
+        summary:
+        highlights:
+          - Developed LLC layer for the GPRS protocol stack.
+
+    # publications:
+    #   - title: 3D Finite Element Analysis of No-Insulation Coils
+    #     authors:
+    #       - Frodo Baggins
+    #       - "***John Doe***"
+    #       - Samwise Gamgee
+    #     doi: 10.1109/TASC.2023.3340648
+    #     url:
+    #     journal:
+    #     date: 2004-01
+    # extracurricular_activities:
+    #   - bullet: "There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*."
+    #   - bullet: Each entry type has a different structure and layout. This document demonstrates all of them.
+    # numbered_entries:
+    #   - number: This is a numbered entry.
+    #   - number: This is another numbered entry.
+    #   - number: This is the third numbered entry.
+    # reversed_numbered_entries:
+    #   - reversed_number: This is a reversed numbered entry.
+    #   - reversed_number: This is another reversed numbered entry.
+    #   - reversed_number: This is the third reversed numbered entry.
+design:
+  theme: classic
+  page:
+    size: a4
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    text: rgb(0, 0, 0)
+    name: rgb(0, 79, 144)
+    connections: rgb(0, 79, 144)
+    section_titles: rgb(0, 79, 144)
+    links: rgb(0, 79, 144)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: Source Sans 3
+    font_size: 10pt
+    leading: 0.6em
+    alignment: justified
+    date_and_location_column_alignment: right
+  links:
+    underline: false
+    use_external_link_icon: true
+  header:
+    name_font_family: Source Sans 3
+    name_font_size: 30pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: Source Sans 3
+    separator_between_connections: ""
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-parial-line
+    font_family: Source Sans 3
+    font_size: 1.4em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: •
+    top_margin: 0.25cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: "**LABEL:** DETAILS"
+    education_entry:
+      main_column_first_row_template: "**INSTITUTION**, AREA"
+      degree_column_template: "**DEGREE**"
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    normal_entry:
+      main_column_first_row_template: "**NAME**"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    experience_entry:
+      main_column_first_row_template: "**COMPANY**, POSITION"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        LOCATION
+        DATE
+    publication_entry:
+      main_column_first_row_template: "**TITLE**"
+      main_column_second_row_template: |-
+        AUTHORS
+        URL (JOURNAL)
+      main_column_second_row_without_journal_template: |-
+        AUTHORS
+        URL
+      main_column_second_row_without_url_template: |-
+        AUTHORS
+        JOURNAL
+      date_and_location_column_template: DATE
+locale:
+  language: en
+  phone_number_format: national
+  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_template: Last updated in TODAY
+  date_template: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  date: "2025-03-12"
+  render_command:
+  bold_keywords: []
