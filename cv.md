@@ -43,6 +43,9 @@ Bournemouth University, 1999
 
 ## Portfolio (Recent Projects)
 
+- **AI Food Securities Data Platform (Armakuni)**  
+  Fullstack developer for an AI food securities data platform for the UAE using Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, and Postgres.
+
 - **Auth0/AWS Cognito Embedded Single Sign-On**  
   Developed federated identity solution for embedding Sage product.
 

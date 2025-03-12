@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#192C56",
+        "titleBar.activeBackground": "#233D78",
+        "titleBar.activeForeground": "#FAFBFE"
+    },
+    "vscode-corda.isCordaProject": false
+}
