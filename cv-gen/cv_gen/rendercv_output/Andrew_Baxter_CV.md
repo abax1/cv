@@ -16,7 +16,7 @@ A full stack software engineer with 20 years of experience, including business a
 
 ## Bournemouth University, BSc in Business Information Technology
 
-- Sept 1995 – Sept 1999
+- Sept 1995 – July 1999
 - Bournemouth, UK
 - Sponsored by Panasonic
 

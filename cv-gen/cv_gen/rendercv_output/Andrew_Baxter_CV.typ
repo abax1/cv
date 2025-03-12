@@ -486,7 +486,7 @@
   right-content: [
     Bournemouth, UK
 
-Sept 1995 – Sept 1999
+Sept 1995 – July 1999
   ],
 )
 
