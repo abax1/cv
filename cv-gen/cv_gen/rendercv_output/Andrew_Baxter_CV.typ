@@ -530,7 +530,7 @@ Sept 1995 – Sept 1999
 
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [AI food securities data platform for the UAE])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Dagster, Python, C\#, JavaScript, Docker, Kubernetes, Azure, and Postgres.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Dagster, Python, C\#, TypeScript, Docker, Kubernetes, Azure, and Postgres.],)
   ],
   right-content: [
     London, UK

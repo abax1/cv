@@ -34,7 +34,7 @@ A full stack software engineer with 20 years of experience, including business a
 
 - 2025 – present
 - London, UK
-- Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, and Postgres.
+- Dagster, Python, C#, TypeScript, Docker, Kubernetes, Azure, and Postgres.
 
 ## Auth0/AWS Cognito Embedded Single Sign-On
 
