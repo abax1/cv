@@ -85,7 +85,7 @@ Bournemouth University, 1999
 **Sage**, Brighton, UK | 2022 - May 2023
 
 - Developed secure single sign-on embedded capability.
-- **Technologies**: React, Python, FastAPI, Postgres, AWS Cognito
+- **Technologies**: React, Python, FastAPI, Django, Postgres, AWS Cognito
 
 ### Senior Software Engineer - Full Stack  
 **Harper Collins**, London, UK | 2021 - 2022
