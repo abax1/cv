@@ -500,11 +500,11 @@ Sept 1995 – July 1999
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Frameworks:] React, FastAPI, Django, Flask, Corda, Dagster]
+  content: [#strong[Frameworks:] React, FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[DevOps:] Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions, GitLab]
+  content: [#strong[DevOps:] Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions, GitLab, Jenkins, Buildkite]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(

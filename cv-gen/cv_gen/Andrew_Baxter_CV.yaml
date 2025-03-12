@@ -28,9 +28,9 @@ cv:
       - label: Programming
         details: "Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, C# and SQL."
       - label: Frameworks
-        details: "React, FastAPI, Django, Flask, Corda, Dagster"
+        details: "React, FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS"
       - label: DevOps
-        details: "Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions, GitLab"
+        details: "Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions, GitLab, Jenkins, Buildkite"
       - label: Blockchain
         details: "Corda, Ethereum, Hyperledger"
       - label: Databases
