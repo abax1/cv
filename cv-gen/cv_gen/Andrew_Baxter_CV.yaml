@@ -26,7 +26,7 @@ cv:
 
     skills:
       - label: Programming
-        details: "Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, and C#."
+        details: "Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, C# and SQL."
       - label: Frameworks
         details: "React, FastAPI, Django, Flask, Corda, Dagster"
       - label: DevOps
@@ -40,8 +40,8 @@ cv:
 
     portfolio:
       - name: AI Food Securities Data Platform (Armakuni)
-        date: 2025
-        start_date: 
+        date:
+        start_date: 2025
         end_date: present
         location: London, UK
         summary: AI food securities data platform for the UAE

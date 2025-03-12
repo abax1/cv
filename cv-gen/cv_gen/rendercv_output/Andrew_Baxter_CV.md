@@ -22,7 +22,7 @@ A full stack software engineer with 20 years of experience, including business a
 
 # Skills
 
-- Programming: Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, and C#.
+- Programming: Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, C# and SQL.
 - Frameworks: React, FastAPI, Django, Flask, Corda, Dagster
 - DevOps: Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions, GitLab
 - Blockchain: Corda, Ethereum, Hyperledger
@@ -32,7 +32,7 @@ A full stack software engineer with 20 years of experience, including business a
 
 ## AI Food Securities Data Platform (Armakuni)
 
-- 2025
+- 2025 – present
 - London, UK
 - Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, and Postgres.
 

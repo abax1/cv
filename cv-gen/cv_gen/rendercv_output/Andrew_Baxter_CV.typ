@@ -496,7 +496,7 @@ Sept 1995 – Sept 1999
 
 
 #one-col-entry(
-  content: [#strong[Programming:] Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, and C\#]
+  content: [#strong[Programming:] Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, C\# and SQL]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -535,7 +535,7 @@ Sept 1995 – Sept 1999
   right-content: [
     London, UK
 
-2025
+2025 – present
   ],
 )
 
