@@ -26,7 +26,7 @@ cv:
 
     skills:
       - label: Programming
-        details: "Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, C# and SQL."
+        details: "Proficient with **Python**, **Kotlin**, **Java**, **C**, **TypeScript**, **JavaScript**, **Rust**, **C#** and **SQL**."
       - label: Frameworks
         details: "React, React Native (Expo), FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS, Firebase"
       - label: DevOps

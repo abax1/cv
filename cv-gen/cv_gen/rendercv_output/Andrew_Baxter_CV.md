@@ -22,7 +22,7 @@ A full stack software engineer with 20 years of experience, including business a
 
 # Skills
 
-- Programming: Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, C# and SQL.
+- Programming: Proficient with **Python**, **Kotlin**, **Java**, **C**, **TypeScript**, **JavaScript**, **Rust**, **C#** and **SQL**.
 - Frameworks: React, React Native (Expo), FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS, Firebase
 - DevOps: Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions, GitLab, Jenkins, Buildkite
 - Blockchain: Corda, Ethereum, Hyperledger

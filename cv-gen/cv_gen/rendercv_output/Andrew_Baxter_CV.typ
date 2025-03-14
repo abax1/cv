@@ -496,7 +496,7 @@ Sept 1995 – July 1999
 
 
 #one-col-entry(
-  content: [#strong[Programming:] Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, C\# and SQL]
+  content: [#strong[Programming:] Proficient with #strong[Python], #strong[Kotlin], #strong[Java], #strong[C], #strong[TypeScript], #strong[JavaScript], #strong[Rust], #strong[C\#] and #strong[SQL]]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
