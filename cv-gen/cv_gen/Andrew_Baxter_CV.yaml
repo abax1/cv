@@ -28,13 +28,15 @@ cv:
       - label: Programming
         details: "Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, C# and SQL."
       - label: Frameworks
-        details: "React, FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS"
+        details: "React, React Native (Expo), FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS, Firebase"
       - label: DevOps
         details: "Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions, GitLab, Jenkins, Buildkite"
       - label: Blockchain
         details: "Corda, Ethereum, Hyperledger"
       - label: Databases
         details: "Postgres, MySQL, MongoDB, DynamoDB, Firestore"
+      - label: Tools
+        details: "Lucidchart, Balsmiq, Linear, Jira"
       - label: Languages
         details: "English (native)"
 
@@ -65,6 +67,7 @@ cv:
         summary:
         highlights:
           - Built production-grade solution for roaming reconciliation using Corda blockchain.
+          - Built React Native mobile app for user interaction with the blockchain.
 
       - name: Secure Contacts Application (Harper Collins)
         date: 

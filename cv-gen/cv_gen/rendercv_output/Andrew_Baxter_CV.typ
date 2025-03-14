@@ -500,7 +500,7 @@ Sept 1995 – July 1999
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Frameworks:] React, FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS]
+  content: [#strong[Frameworks:] React, React Native \(Expo\), FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS, Firebase]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -513,6 +513,10 @@ Sept 1995 – July 1999
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
   content: [#strong[Databases:] Postgres, MySQL, MongoDB, DynamoDB, Firestore]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Tools:] Lucidchart, Balsmiq, Linear, Jira]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -567,7 +571,7 @@ Sept 1995 – July 1999
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Built production-grade solution for roaming reconciliation using Corda blockchain.],)
+    #v(design-highlights-top-margin);#highlights([Built production-grade solution for roaming reconciliation using Corda blockchain.],[Built React Native mobile app for user interaction with the blockchain.],)
   ],
 )
 

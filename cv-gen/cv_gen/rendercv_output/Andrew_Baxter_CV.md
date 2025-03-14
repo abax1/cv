@@ -23,10 +23,11 @@ A full stack software engineer with 20 years of experience, including business a
 # Skills
 
 - Programming: Proficient with Python, Kotlin, Java, C, TypeScript, JavaScript, Rust, C# and SQL.
-- Frameworks: React, FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS
+- Frameworks: React, React Native (Expo), FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS, Firebase
 - DevOps: Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions, GitLab, Jenkins, Buildkite
 - Blockchain: Corda, Ethereum, Hyperledger
 - Databases: Postgres, MySQL, MongoDB, DynamoDB, Firestore
+- Tools: Lucidchart, Balsmiq, Linear, Jira
 - Languages: English (native)
 # Portfolio
 
@@ -46,6 +47,7 @@ A full stack software engineer with 20 years of experience, including business a
 
 - London, UK
 - Built production-grade solution for roaming reconciliation using Corda blockchain.
+- Built React Native mobile app for user interaction with the blockchain.
 
 ## Secure Contacts Application (Harper Collins)
 
