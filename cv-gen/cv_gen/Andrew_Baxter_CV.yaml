@@ -41,12 +41,21 @@ cv:
         details: "English (native)"
 
     portfolio:
-      - name: AI Food Securities Data Platform (Armakuni)
+      - name: Jefferies Bank
         date:
-        start_date: 2025
+        start_date: 2025-05
         end_date: present
         location: London, UK
-        summary: AI food securities data platform for the UAE
+        summary: DevOps Engineer, migrating 200 repositories to GitHub Enterprise.  Building CI/CD pipelines using GitHub Actions and AWS.
+        highlights:
+          - Github Actions, Python, Java, Docker, Kubernetes, AWS
+
+      - name: Commodities Intelligence AI Data Platform (Armakuni)
+        date:
+        start_date: 2024-11
+        end_date: 2025-04
+        location: London, UK
+        summary: AI commodities data platform for the UAE
         highlights:
           - Dagster, Python, C#, TypeScript, Docker, Kubernetes, Azure, and Postgres.
 
@@ -88,13 +97,23 @@ cv:
           - Developed identity management platform using React, Python, and AWS Cognito.
 
     experience:
+      - company: Jefferies Bank
+        position: Senior DevOps Engineer
+        date:
+        start_date: 2025-03
+        end_date: present
+        location: London, UK
+        summary: 
+        highlights:
+          - Github Actions, Python, Java, Docker, Kubernetes, AWS, Postgres
+
       - company: Armakuni
         position: Senior Software Engineer
         date:
         start_date: 2024-11
         end_date: present
         location: London, UK
-        summary: Fullstack developer for an AI food securities data platform for the UAE.
+        summary: Fullstack developer for an AI commodities intelligence data platform for the UAE.
         highlights:
           - Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, Postgres
 
