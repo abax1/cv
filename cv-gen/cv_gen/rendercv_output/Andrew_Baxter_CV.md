@@ -31,9 +31,15 @@ A full stack software engineer with 20 years of experience, including business a
 - Languages: English (native)
 # Portfolio
 
-## AI Food Securities Data Platform (Armakuni)
+## Jefferies Bank
 
-- 2025 – present
+- May 2025 – present
+- London, UK
+- Github Actions, Python, Java, Docker, Kubernetes, AWS
+
+## Commodities Intelligence AI Data Platform (Armakuni)
+
+- Nov 2024 – Apr 2025
 - London, UK
 - Dagster, Python, C#, TypeScript, Docker, Kubernetes, Azure, and Postgres.
 
@@ -62,6 +68,12 @@ A full stack software engineer with 20 years of experience, including business a
 - Developed identity management platform using React, Python, and AWS Cognito.
 
 # Experience
+
+## Jefferies Bank, Senior DevOps Engineer
+
+- Mar 2025 – present
+- London, UK
+- Github Actions, Python, Java, Docker, Kubernetes, AWS, Postgres
 
 ## Armakuni, Senior Software Engineer
 

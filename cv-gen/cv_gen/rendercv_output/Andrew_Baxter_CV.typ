@@ -529,17 +529,34 @@ Sept 1995 – July 1999
 
 #two-col-entry(
   left-content: [
-    #strong[AI Food Securities Data Platform \(Armakuni\)]
+    #strong[Jefferies Bank]
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [AI food securities data platform for the UAE])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [DevOps Engineer, migrating 200 repositories to GitHub Enterprise.  Building CI\/CD pipelines using GitHub Actions and AWS.])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Github Actions, Python, Java, Docker, Kubernetes, AWS],)
+  ],
+  right-content: [
+    London, UK
+
+May 2025 – present
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
+    #strong[Commodities Intelligence AI Data Platform \(Armakuni\)]
+    #v(-design-text-leading)
+
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [AI commodities data platform for the UAE])], column-gutter: 0cm)
 
 #v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Dagster, Python, C\#, TypeScript, Docker, Kubernetes, Azure, and Postgres.],)
   ],
   right-content: [
     London, UK
 
-2025 – present
+Nov 2024 – Apr 2025
   ],
 )
 
@@ -612,10 +629,25 @@ Sept 1995 – July 1999
 
 #two-col-entry(
   left-content: [
+    #strong[Jefferies Bank], Senior DevOps Engineer
+    #v(-design-text-leading)
+
+    #v(design-highlights-top-margin);#highlights([Github Actions, Python, Java, Docker, Kubernetes, AWS, Postgres],)
+  ],
+  right-content: [
+    London, UK
+
+Mar 2025 – present
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #strong[Armakuni], Senior Software Engineer
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Fullstack developer for an AI food securities data platform for the UAE.])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Fullstack developer for an AI commodities intelligence data platform for the UAE.])], column-gutter: 0cm)
 
 #v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Dagster, Python, C\#, JavaScript, Docker, Kubernetes, Azure, Postgres],)
   ],
