@@ -74,7 +74,7 @@ cv:
     - name: Jefferies Bank
       date: null
       start_date: 2025-05
-      end_date: 2025-07
+      end_date: present
       location: London, UK
       summary: Senior DevOps Engineer supporting front-office and core systems migration
       highlights:
@@ -150,25 +150,25 @@ cv:
       position: Senior DevOps Engineer
       date: null
       start_date: 2025-03
-      end_date: 2025-07
+      end_date: present
       location: London, UK
       summary: Senior DevOps Engineer supporting GitHub Enterprise transformation
-        and CI/CD modernisation. Enabling regulatory compliance, DevSecOps integration,
-        and build standardisation across financial software estates.
+        and CI/CD modernization. Enabling regulatory compliance, DevSecOps integration,
+        and build standardization across financial software estates.
       highlights:
       - Github Actions, Python, Java, Docker, Kubernetes, AWS, Postgres
     - company: Armakuni
       position: Senior Software Engineer
       date: null
       start_date: 2024-11
-      end_date: 2025-03
+      end_date: present
       location: London, UK
       summary: Fullstack developer for an AI commodities intelligence data platform
         for the UAE.
       highlights:
       - Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, Postgres
-    - company: Vodafone
-      position: Solution Architect
+    - company: Tandem Technology Solutions
+      position: Senior Software Engineer
       date: null
       start_date: 2022
       end_date: 2024
@@ -266,27 +266,6 @@ cv:
       summary: null
       highlights:
       - Developed LLC layer for the GPRS protocol stack.
-    # publications:
-    #   - title: 3D Finite Element Analysis of No-Insulation Coils
-    #     authors:
-    #       - Frodo Baggins
-    #       - "***John Doe***"
-    #       - Samwise Gamgee
-    #     doi: 10.1109/TASC.2023.3340648
-    #     url:
-    #     journal:
-    #     date: 2004-01
-    # extracurricular_activities:
-    #   - bullet: "There are 7 unique entry types in RenderCV: *BulletEntry*, *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*, *PublicationEntry*, and *OneLineEntry*."
-    #   - bullet: Each entry type has a different structure and layout. This document demonstrates all of them.
-    # numbered_entries:
-    #   - number: This is a numbered entry.
-    #   - number: This is another numbered entry.
-    #   - number: This is the third numbered entry.
-    # reversed_numbered_entries:
-    #   - reversed_number: This is a reversed numbered entry.
-    #   - reversed_number: This is another reversed numbered entry.
-    #   - reversed_number: This is the third reversed numbered entry.
 design:
   theme: classic
   page:
@@ -322,7 +301,7 @@ design:
     vertical_space_between_connections_and_first_section: 0.7cm
     horizontal_space_between_connections: 0.5cm
     connections_font_family: Source Sans 3
-    separator_between_connections: ""
+    separator_between_connections: ''
     use_icons_for_connections: true
     alignment: center
   section_titles:
@@ -344,7 +323,7 @@ design:
     short_second_row: false
     show_time_spans_in: []
   highlights:
-    bullet: •
+    bullet: "\u2022"
     top_margin: 0.25cm
     left_margin: 0.4cm
     vertical_space_between_highlights: 0.25cm
@@ -352,44 +331,44 @@ design:
     summary_left_margin: 0cm
   entry_types:
     one_line_entry:
-      template: "**LABEL:** DETAILS"
+      template: '**LABEL:** DETAILS'
     education_entry:
-      main_column_first_row_template: "**INSTITUTION**, AREA"
-      degree_column_template: "**DEGREE**"
+      main_column_first_row_template: '**INSTITUTION**, AREA'
+      degree_column_template: '**DEGREE**'
       degree_column_width: 1cm
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
-      date_and_location_column_template: |-
-        LOCATION
-        DATE
+      main_column_second_row_template: 'SUMMARY
+
+        HIGHLIGHTS'
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     normal_entry:
-      main_column_first_row_template: "**NAME**"
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
-      date_and_location_column_template: |-
-        LOCATION
-        DATE
+      main_column_first_row_template: '**NAME**'
+      main_column_second_row_template: 'SUMMARY
+
+        HIGHLIGHTS'
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     experience_entry:
-      main_column_first_row_template: "**COMPANY**, POSITION"
-      main_column_second_row_template: |-
-        SUMMARY
-        HIGHLIGHTS
-      date_and_location_column_template: |-
-        LOCATION
-        DATE
+      main_column_first_row_template: '**COMPANY**, POSITION'
+      main_column_second_row_template: 'SUMMARY
+
+        HIGHLIGHTS'
+      date_and_location_column_template: 'LOCATION
+
+        DATE'
     publication_entry:
-      main_column_first_row_template: "**TITLE**"
-      main_column_second_row_template: |-
-        AUTHORS
-        URL (JOURNAL)
-      main_column_second_row_without_journal_template: |-
-        AUTHORS
-        URL
-      main_column_second_row_without_url_template: |-
-        AUTHORS
-        JOURNAL
+      main_column_first_row_template: '**TITLE**'
+      main_column_second_row_template: 'AUTHORS
+
+        URL (JOURNAL)'
+      main_column_second_row_without_journal_template: 'AUTHORS
+
+        URL'
+      main_column_second_row_without_url_template: 'AUTHORS
+
+        JOURNAL'
       date_and_location_column_template: DATE
 locale:
   language: en
@@ -402,34 +381,34 @@ locale:
   year: year
   years: years
   present: present
-  to: –
+  to: "\u2013"
   abbreviations_for_months:
-    - Jan
-    - Feb
-    - Mar
-    - Apr
-    - May
-    - June
-    - July
-    - Aug
-    - Sept
-    - Oct
-    - Nov
-    - Dec
+  - Jan
+  - Feb
+  - Mar
+  - Apr
+  - May
+  - June
+  - July
+  - Aug
+  - Sept
+  - Oct
+  - Nov
+  - Dec
   full_names_of_months:
-    - January
-    - February
-    - March
-    - April
-    - May
-    - June
-    - July
-    - August
-    - September
-    - October
-    - November
-    - December
+  - January
+  - February
+  - March
+  - April
+  - May
+  - June
+  - July
+  - August
+  - September
+  - October
+  - November
+  - December
 rendercv_settings:
-  date: "2025-03-12"
-  render_command:
+  date: '2026-01-28'
+  render_command: null
   bold_keywords: []
