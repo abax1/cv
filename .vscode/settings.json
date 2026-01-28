@@ -4,5 +4,6 @@
         "titleBar.activeBackground": "#233D78",
         "titleBar.activeForeground": "#FAFBFE"
     },
-    "vscode-corda.isCordaProject": false
+    "vscode-corda.isCordaProject": false,
+    "snyk.advanced.autoSelectOrganization": true
 }

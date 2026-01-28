@@ -10,7 +10,7 @@
 
 # Profile
 
-A full stack software engineer with 20 years of experience, including business analysis and product management. Passionate about building software solutions from concept to implementation using React for frontend, and Python, Kotlin, Corda, Java, TypeScript and Rust for backend development over a RESTful API. Proficient in deployment using Docker, Kubernetes, AWS, Azure and GCP. Experience with blockchain, machine learning, and IoT. Adept at Agile development practices.
+A senior full stack engineer and DevOps specialist with 20+ years of experience, including product and business analysis. Proven track record delivering scalable, secure platforms for clients in financial services, government, and telecoms. Recently led development of a desktop blockchain utility (ChainVault) for RDA — an Electron + React + TypeScript application for interacting with Ethereum and Layer 2 networks, supporting NFT minting (ERC-721), file hash certification, multi-network configuration, audit logging, and local persistence. Technical expertise spans Python, Java, Kotlin, TypeScript, Corda, Rust, and Solidity, with cloud-native deployments on AWS, GCP, and Azure. Deep understanding of regulatory requirements, security, and performance critical to financial systems.
 
 # Education
 
@@ -23,25 +23,39 @@ A full stack software engineer with 20 years of experience, including business a
 # Skills
 
 - Programming: Proficient with **Python**, **Kotlin**, **Java**, **C**, **TypeScript**, **JavaScript**, **Rust**, **C#** and **SQL**.
-- Frameworks: React, React Native (Expo), FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS, Firebase
+- Frameworks / Frontend: React, Electron, React Native (Expo), Next.JS, FastAPI, Django, Flask, Corda, Dagster, Springboot, Firebase
 - DevOps: Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions, GitLab, Jenkins, Buildkite
+- Frontend / Desktop: Electron, Node.js, TypeScript, React
+- Blockchain / Web3: Solidity, ethers.js, web3.js, Hardhat, OpenZeppelin, ERC-721
 - Blockchain: Corda, Ethereum, Hyperledger
 - Databases: Postgres, MySQL, MongoDB, DynamoDB, Firestore
 - Tools: Lucidchart, Balsmiq, Linear, Jira
 - Languages: English (native)
 # Portfolio
 
+## ChainVault — Blockchain Utility Desktop Application (RDA)
+
+- Aug 2025 – present
+- Remote
+- Built an Electron + React + TypeScript desktop app with drag-and-drop file upload, file hash generation and local persistence.
+- Implemented ERC-721 NFT minting and metadata management using Solidity, OpenZeppelin, and `ethers.js` with multi-network support.
+- Designed a blockchain adapter layer (JSON-RPC clients, endpoint selector) supporting managed and self-hosted node strategies.
+- Integrated OIDC/OAuth2 authentication, audit logging, telemetry and local repository abstractions for offline-first workflows.
+
 ## Jefferies Bank
 
-- May 2025 – present
+- May 2025 – July 2025
 - London, UK
-- Github Actions, Python, Java, Docker, Kubernetes, AWS
+- Spearheaded migration of over 200 code repositories into GitHub Enterprise, ensuring traceability and compliance with internal controls.
+- Designed and implemented reusable GitHub Actions pipelines for build, test, and deploy workflows across Python and Java codebases.
+- Collaborated with InfoSec to integrate static code analysis and secrets scanning in CI/CD.
 
 ## Commodities Intelligence AI Data Platform (Armakuni)
 
 - Nov 2024 – Apr 2025
 - London, UK
-- Dagster, Python, C#, TypeScript, Docker, Kubernetes, Azure, and Postgres.
+- Leveraged Dagster and Kubernetes to orchestrate secure pipelines ingesting global economic data.
+- Technologies: Python, C#, TypeScript, Docker, Azure, Postgres.
 
 ## Auth0/AWS Cognito Embedded Single Sign-On
 
@@ -52,8 +66,8 @@ A full stack software engineer with 20 years of experience, including business a
 ## Telco Roaming Reconciliation (BCE) Platform
 
 - London, UK
-- Built production-grade solution for roaming reconciliation using Corda blockchain.
-- Built React Native mobile app for user interaction with the blockchain.
+- Used Corda to provide verifiable, auditable settlements between roaming partners, ensuring transparency and fraud resistance.
+- Built mobile app to support multi-stakeholder authentication and record review.
 
 ## Secure Contacts Application (Harper Collins)
 
@@ -69,19 +83,27 @@ A full stack software engineer with 20 years of experience, including business a
 
 # Experience
 
+## ChainVault (RDA), Lead Engineer
+
+- Aug 2025 – present
+- Remote
+- Built an Electron + React + TypeScript desktop app with drag-and-drop file upload, file-hash generation, and local persistence.
+- Implemented ERC-721 NFT minting using Solidity, OpenZeppelin, and ethers.js with multi-network support.
+- Designed a blockchain adapter layer (JSON-RPC clients, endpoint selector) and integrated OIDC/OAuth2 authentication, telemetry, and audit logging.
+
 ## Jefferies Bank, Senior DevOps Engineer
 
-- Mar 2025 – present
+- Mar 2025 – July 2025
 - London, UK
 - Github Actions, Python, Java, Docker, Kubernetes, AWS, Postgres
 
 ## Armakuni, Senior Software Engineer
 
-- Nov 2024 – present
+- Nov 2024 – Mar 2025
 - London, UK
 - Dagster, Python, C#, JavaScript, Docker, Kubernetes, Azure, Postgres
 
-## Tandem Technology Solutions, Senior Software Engineer
+## Vodafone, Solution Architect
 
 - 2022 – 2024
 - London, UK

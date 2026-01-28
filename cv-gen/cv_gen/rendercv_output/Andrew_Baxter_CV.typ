@@ -466,7 +466,7 @@
 
 
 #one-col-entry(
-  content: [A full stack software engineer with 20 years of experience, including business analysis and product management. Passionate about building software solutions from concept to implementation using React for frontend, and Python, Kotlin, Corda, Java, TypeScript and Rust for backend development over a RESTful API. Proficient in deployment using Docker, Kubernetes, AWS, Azure and GCP. Experience with blockchain, machine learning, and IoT. Adept at Agile development practices.]
+  content: [A senior full stack engineer and DevOps specialist with 20+ years of experience, including product and business analysis. Proven track record delivering scalable, secure platforms for clients in financial services, government, and telecoms. Recently led development of a desktop blockchain utility \(ChainVault\) for RDA — an Electron + React + TypeScript application for interacting with Ethereum and Layer 2 networks, supporting NFT minting \(ERC-721\), file hash certification, multi-network configuration, audit logging, and local persistence. Technical expertise spans Python, Java, Kotlin, TypeScript, Corda, Rust, and Solidity, with cloud-native deployments on AWS, GCP, and Azure. Deep understanding of regulatory requirements, security, and performance critical to financial systems.]
 )
 
 
@@ -500,11 +500,19 @@ Sept 1995 – July 1999
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[Frameworks:] React, React Native \(Expo\), FastAPI, Django, Flask, Corda, Dagster, Springboot, Next.JS, Firebase]
+  content: [#strong[Frameworks \/ Frontend:] React, Electron, React Native \(Expo\), Next.JS, FastAPI, Django, Flask, Corda, Dagster, Springboot, Firebase]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
   content: [#strong[DevOps:] Docker, Kubernetes, AWS, Azure, GCP, Git, GitHub Actions, GitLab, Jenkins, Buildkite]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Frontend \/ Desktop:] Electron, Node.js, TypeScript, React]
+)
+#v(design-entries-vertical-space-between-entries)
+#one-col-entry(
+  content: [#strong[Blockchain \/ Web3:] Solidity, ethers.js, web3.js, Hardhat, OpenZeppelin, ERC-721]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -529,17 +537,34 @@ Sept 1995 – July 1999
 
 #two-col-entry(
   left-content: [
+    #strong[ChainVault — Blockchain Utility Desktop Application \(RDA\)]
+    #v(-design-text-leading)
+
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Lead engineer for a desktop application enabling Ethereum and Layer-2 interactions, NFT minting and certificate verification, and secure audit trails.])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Built an Electron + React + TypeScript desktop app with drag-and-drop file upload, file hash generation and local persistence.],[Implemented ERC-721 NFT minting and metadata management using Solidity, OpenZeppelin, and `ethers.js` with multi-network support.],[Designed a blockchain adapter layer \(JSON-RPC clients, endpoint selector\) supporting managed and self-hosted node strategies.],[Integrated OIDC\/OAuth2 authentication, audit logging, telemetry and local repository abstractions for offline-first workflows.],)
+  ],
+  right-content: [
+    Remote
+
+Aug 2025 – present
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #strong[Jefferies Bank]
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [DevOps Engineer, migrating 200 repositories to GitHub Enterprise.  Building CI\/CD pipelines using GitHub Actions and AWS.])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Senior DevOps Engineer supporting front-office and core systems migration])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Github Actions, Python, Java, Docker, Kubernetes, AWS],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Spearheaded migration of over 200 code repositories into GitHub Enterprise, ensuring traceability and compliance with internal controls.],[Designed and implemented reusable GitHub Actions pipelines for build, test, and deploy workflows across Python and Java codebases.],[Collaborated with InfoSec to integrate static code analysis and secrets scanning in CI\/CD.],)
   ],
   right-content: [
     London, UK
 
-May 2025 – present
+May 2025 – July 2025
   ],
 )
 
@@ -549,9 +574,9 @@ May 2025 – present
     #strong[Commodities Intelligence AI Data Platform \(Armakuni\)]
     #v(-design-text-leading)
 
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [AI commodities data platform for the UAE])], column-gutter: 0cm)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Full stack engineer for data analytics platform providing commodity pricing intelligence to government and private clients in the Gulf region.])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Dagster, Python, C\#, TypeScript, Docker, Kubernetes, Azure, and Postgres.],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Leveraged Dagster and Kubernetes to orchestrate secure pipelines ingesting global economic data.],[Technologies: Python, C\#, TypeScript, Docker, Azure, Postgres.],)
   ],
   right-content: [
     London, UK
@@ -588,7 +613,9 @@ Nov 2024 – Apr 2025
 )
 #one-col-entry(
   content: [
-    #v(design-highlights-top-margin);#highlights([Built production-grade solution for roaming reconciliation using Corda blockchain.],[Built React Native mobile app for user interaction with the blockchain.],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Delivered blockchain-based data reconciliation platform inspired by financial clearing models.])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Used Corda to provide verifiable, auditable settlements between roaming partners, ensuring transparency and fraud resistance.],[Built mobile app to support multi-stakeholder authentication and record review.],)
   ],
 )
 
@@ -629,15 +656,34 @@ Nov 2024 – Apr 2025
 
 #two-col-entry(
   left-content: [
+    #strong[ChainVault \(RDA\)], Lead Engineer
+    #v(-design-text-leading)
+
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Lead engineer for a desktop blockchain utility enabling Ethereum and Layer-2 interactions, NFT minting, and secure audit trails.])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Built an Electron + React + TypeScript desktop app with drag-and-drop file upload, file-hash generation, and local persistence.],[Implemented ERC-721 NFT minting using Solidity, OpenZeppelin, and ethers.js with multi-network support.],[Designed a blockchain adapter layer \(JSON-RPC clients, endpoint selector\) and integrated OIDC\/OAuth2 authentication, telemetry, and audit logging.],)
+  ],
+  right-content: [
+    Remote
+
+Aug 2025 – present
+  ],
+)
+
+#v(design-entries-vertical-space-between-entries)
+#two-col-entry(
+  left-content: [
     #strong[Jefferies Bank], Senior DevOps Engineer
     #v(-design-text-leading)
 
-    #v(design-highlights-top-margin);#highlights([Github Actions, Python, Java, Docker, Kubernetes, AWS, Postgres],)
+    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Senior DevOps Engineer supporting GitHub Enterprise transformation and CI\/CD modernisation. Enabling regulatory compliance, DevSecOps integration, and build standardisation across financial software estates.])], column-gutter: 0cm)
+
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Github Actions, Python, Java, Docker, Kubernetes, AWS, Postgres],)
   ],
   right-content: [
     London, UK
 
-Mar 2025 – present
+Mar 2025 – July 2025
   ],
 )
 
@@ -654,14 +700,14 @@ Mar 2025 – present
   right-content: [
     London, UK
 
-Nov 2024 – present
+Nov 2024 – Mar 2025
   ],
 )
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Tandem Technology Solutions], Senior Software Engineer
+    #strong[Vodafone], Solution Architect
     #v(-design-text-leading)
 
     #v(design-highlights-top-margin);#highlights([Led development for blockchain-based data reconciliation platform.],[Technologies: React, Python, Kotlin, JavaScript, Docker, Kubernetes, GCP],[Migrated from Azure to AWS and then to GCP over the lifetime of this project on the client's request],)
