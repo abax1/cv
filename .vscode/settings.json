@@ -2,8 +2,17 @@
     "workbench.colorCustomizations": {
         "activityBar.background": "#192C56",
         "titleBar.activeBackground": "#233D78",
-        "titleBar.activeForeground": "#FAFBFE"
+        "titleBar.activeForeground": "#FAFBFE",
+        "titleBar.inactiveBackground": "#192C56",
+        "titleBar.inactiveForeground": "#FAFBFE",
+        "statusBar.background": "#192C56",
+        "statusBar.foreground": "#FAFBFE",
+        "statusBar.debuggingBackground": "#192C56",
+        "statusBar.debuggingForeground": "#FAFBFE",
+        "statusBar.noFolderBackground": "#192C56",
+        "statusBar.noFolderForeground": "#FAFBFE"
     },
     "vscode-corda.isCordaProject": false,
-    "snyk.advanced.autoSelectOrganization": true
+    "snyk.advanced.autoSelectOrganization": true,
+    "snyk.advanced.organization": "7009b58c-14d7-40f5-9a8b-07bc45998843"
 }
